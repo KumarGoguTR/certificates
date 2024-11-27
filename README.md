@@ -9,4 +9,4 @@
 * [Python Concurrent and Parallel Programming Part II](https://www.linkedin.com/learning/certificates/bfb9f8dabbd30e1468ce5db43a3073ccba7987787f7459b32034fe8cd702f921?trk=share_certificate)
 * [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/FBN6S9SFQ6MZ)
 * [Machine Learning | Stanford Online](https://www.coursera.org/account/accomplishments/verify/UG6SBEKU2FHE)
-
+* [Advanced Python](https://www.linkedin.com/learning/certificates/545fc254637cfd709d64f412f57a200069b652993e39edccade2b14ebdd7c737?trk=share_certificate)
